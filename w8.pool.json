@@ -1,0 +1,29 @@
+
+{
+  "poolName": "w8",
+  "poolOwner": [
+    {
+    "ownerName": "w8",
+    "ownerWitness": "external"
+    }
+  ],
+  "poolRewards": "w8",
+  "poolPledge": "100000000",
+  "poolCost": "340",
+  "poolMargin": "1.00",
+  "poolRelays": [
+    {
+      "relayType": "dns",
+      "relayEntry": "relays.wavegp.com",
+      "relayPort": "3001"
+    }
+  ],
+  "poolMetaName": "Wave-8",
+  "poolMetaDescription": "Wave-8 is a Cardano staking pool owned and operated by Wave Financial.",
+  "poolMetaTicker": "WAV8",
+  "poolMetaHomepage": "https://wavegp.com",
+  "poolMetaUrl": "https://raw.githubusercontent.com/wavemkr/wf/master/w8.json",
+  "poolExtendedMetaUrl": "",
+  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---"
+}
+
